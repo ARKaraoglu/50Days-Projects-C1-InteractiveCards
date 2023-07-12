@@ -63,7 +63,7 @@ body,
 
 .active {
     flex: 5;
-    /* background-size: 100% 100%; */
+    background-size: auto 100%;
 }
 
 .active .panel__description {
