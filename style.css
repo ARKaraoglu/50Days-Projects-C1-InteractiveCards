@@ -18,10 +18,11 @@ body,
 }
 
 .container {
+    padding: 5em;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 90%;
+    height: 80vh;
 }
 .main__panel {
     margin: 0.5em;
