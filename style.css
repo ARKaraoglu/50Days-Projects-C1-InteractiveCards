@@ -6,12 +6,6 @@ body,
     margin: 0;
 }
 
-/* .main {
-    display: grid;
-    align-items: center;
-    justify-content: center;
-} */
-
 .sr-only {
     visibility: hidden;
     margin: 0;
